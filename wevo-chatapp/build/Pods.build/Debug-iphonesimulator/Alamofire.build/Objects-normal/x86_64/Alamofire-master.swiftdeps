@@ -1,0 +1,18 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "73d37a447eae59e62291e0da30bf895b"
+build_time: [507218893, 197537000]
+inputs:
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Upload.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/MultipartFormData.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Stream.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Validation.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Result.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Download.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Error.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Manager.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/ServerTrustPolicy.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Request.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Alamofire.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/ResponseSerialization.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/Response.swift": [506165167, 0]
+  "/Users/sergey_rashidov/wevo/Pods/Alamofire/Source/ParameterEncoding.swift": [506165167, 0]

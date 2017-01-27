@@ -1,0 +1,6 @@
+framework module Pods_commontechUITests {
+  umbrella header "Pods-commontechUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

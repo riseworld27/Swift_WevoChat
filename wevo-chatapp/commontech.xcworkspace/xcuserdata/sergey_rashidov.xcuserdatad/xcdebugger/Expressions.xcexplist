@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ChatViewController.viewDidLoad() -&gt; ():ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.publishMessageToChannel(JSQMessage) -&gt; ():ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.collectionView(UICollectionView, numberOfItemsInSection : Int) -&gt; Int:ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.client(PubNub!, didReceiveMessage : PNMessageResult!) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "msgDict">
+            </PersistentString>
+            <PersistentString
+               value = "msgDict[&quot;senderId&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.(setup(ChatViewController) -&gt; () -&gt; ()).(closure #1):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gTokenString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatRoomViewController.tableView(UITableView, didSelectRowAtIndexPath : NSIndexPath) -&gt; ():ChatRoomViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.(loadMessagesFromPubNub(ChatViewController) -&gt; () -&gt; ()).(closure #1):ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result?.data?.messages">
+            </PersistentString>
+            <PersistentString
+               value = "messages.count">
+            </PersistentString>
+            <PersistentString
+               value = "status.errorData.channels">
+            </PersistentString>
+            <PersistentString
+               value = "status.category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.jsqMessageFromPubNubMessage(AnyObject?) -&gt; MessageData?:ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.client(PubNub!, didReceiveStatus : PNStatus!) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "status.category">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.didPressSendButton(UIButton!, withMessageText : String!, senderId : String!, senderDisplayName : String!, date : NSDate!) -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateMessage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.getUserChat() -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.(loadMessagesFromParse(ChatViewController) -&gt; () -&gt; ()).(closure #1):ChatViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.setup() -&gt; ():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gTokenString">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewController.publishMediaToChannel(String, type : String) -&gt; ():ChatViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

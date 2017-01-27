@@ -1,0 +1,10 @@
+framework module OAuthSwift {
+  umbrella header "OAuthSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OAuthSwift.__Swift {
+    exclude header "OAuthSwift-Swift.h"
+}

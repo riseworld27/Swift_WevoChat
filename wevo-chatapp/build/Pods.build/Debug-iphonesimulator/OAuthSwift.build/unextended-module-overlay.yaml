@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/sergey_rashidov/wevo/build/Debug-iphonesimulator/OAuthSwift.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/sergey_rashidov/wevo/build/Pods.build/Debug-iphonesimulator/OAuthSwift.build/unextended-module.modulemap',
+    }]
+  }]
+}
